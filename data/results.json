@@ -1,4 +1,17 @@
 {
  "about": "RimRunnerNorthCarolina 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "cdb1b193-8500-4e6f-b4ad-f76198d6052a": {
+   "awayMp": "ec4db134-90d9-4be3-8868-e94238b2a4ee",
+   "awayScore": 10,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "homeMp": "8eee3d5d-23d2-40a5-a9fe-1772cf72cd3c",
+   "homeScore": 73,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  }
+ }
 }
