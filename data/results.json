@@ -44,6 +44,33 @@
    "verified": true,
    "winner": "away"
   },
+  "0f306059-55c5-4d03-89f1-72957ad5b646": {
+   "awayMp": "8c031684-1051-4644-bc6a-26a6e7d88fe1",
+   "awayScore": 69,
+   "date": "2026-11-05",
+   "forfeit": false,
+   "homeMp": "0232c8ab-555d-4863-933b-8a032d52382e",
+   "homeScore": 24,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
+  "18e6bce5-90de-4ee5-bfb8-d164ccfc128d": {
+   "awayMp": "8147e627-fc80-48ab-a3ce-a87df5b08ec4",
+   "awayScore": 27,
+   "date": "2026-11-05",
+   "forfeit": false,
+   "gameId": "nc26-x009",
+   "gameType": "non-conference",
+   "homeMp": "d194e99f-a1d3-4bee-b1b2-874d52ae12f5",
+   "homeScore": 69,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "1cc393db-2e9e-4f0a-a472-cf30549c62fe": {
    "awayMp": "0b530384-642a-4b75-866b-431372c19b69",
    "awayScore": 51,
@@ -186,7 +213,7 @@
   },
   "5e91a1c9-99fc-48c2-b248-3e1a7252dfdd": {
    "awayMp": "23bae8a4-95f3-4f43-99bb-9c0a28566b66",
-   "awayScore": 30,
+   "awayScore": 33,
    "date": "2026-11-05",
    "forfeit": false,
    "homeMp": "8bd91ccd-77cd-4cc4-b700-759cfdd04a10",
@@ -275,6 +302,19 @@
    "verified": true,
    "winner": "away"
   },
+  "7ca1da59-f7c4-45fe-8c8e-3315b17ae0ba": {
+   "awayMp": "32b4efbc-f837-454b-8202-bf9ad6ec22c4",
+   "awayScore": 29,
+   "date": "2026-11-06",
+   "forfeit": false,
+   "gameId": "nc26-0124",
+   "homeMp": "0aa165b6-f63e-4108-86f8-daf4ea4a9f29",
+   "homeScore": 57,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "7de15c8b-af4c-48c6-91e3-3456b99df24a": {
    "awayMp": "c7acd3a1-2b00-4030-8406-dbf1352b0e1c",
    "awayScore": 53,
@@ -303,11 +343,11 @@
   },
   "838ae116-adce-4035-aa51-ba186d8e421a": {
    "awayMp": "f9830fd9-e293-4731-b5d6-cdc623d5a14a",
-   "awayScore": 24,
+   "awayScore": 26,
    "date": "2026-11-05",
    "forfeit": false,
    "homeMp": "3d3cb502-ca03-47cc-8d3e-6dbe38966a69",
-   "homeScore": 88,
+   "homeScore": 87,
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
