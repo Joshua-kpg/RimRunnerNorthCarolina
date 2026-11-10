@@ -1,6 +1,19 @@
 {
  "about": "RimRunnerNorthCarolina 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "01b0bc99-d7ed-4b33-8d38-9a2ba89ed7ce": {
+   "awayMp": "36a2d5a9-4029-4701-a387-20ac6d4a2aeb",
+   "awayScore": 43,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "nc26-0076",
+   "homeMp": "1ee0e713-7afc-465e-9cde-5bba0691c6af",
+   "homeScore": 63,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "03ba07d4-dd09-4089-adb5-44f1fbe2eefa": {
    "awayMp": "2953a80e-0866-4c9a-9399-ae57a4886ea2",
    "awayScore": 35,
@@ -130,6 +143,18 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "home"
+  },
+  "0ebb38db-8d08-4b57-919f-1f2288172b76": {
+   "awayMp": "f9830fd9-e293-4731-b5d6-cdc623d5a14a",
+   "awayScore": 74,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "homeMp": "3ad547bc-3d2c-47e4-a9ae-6fd9ab1803a8",
+   "homeScore": 99,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
    "winner": "home"
   },
   "0f306059-55c5-4d03-89f1-72957ad5b646": {
@@ -722,6 +747,18 @@
    "state": "applied",
    "winner": "home"
   },
+  "72ef82d6-add6-4d11-906b-7d80ad0cfacc": {
+   "awayMp": "0cc004e9-aba9-4024-90a3-6aac777f490d",
+   "awayScore": 63,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "homeMp": "930c2951-ae6a-47be-8c42-77c554d6d34c",
+   "homeScore": 23,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
   "7320b831-1fb9-4fca-a3ec-a1e59f66c7f6": {
    "awayMp": "72510f22-967b-4559-b65a-7e95f7f3afad",
    "awayScore": 79,
@@ -934,7 +971,7 @@
   },
   "9a8e6600-6718-4675-9139-484e1aae1ceb": {
    "awayMp": "e9d8265f-e5a5-4c82-a32e-897ecafd0081",
-   "awayScore": 53,
+   "awayScore": 51,
    "date": "2026-11-09",
    "forfeit": false,
    "gameId": "nc26-0078",
@@ -1338,6 +1375,21 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "d621781a-2e6a-4491-b1ba-9819f31012c7": {
+   "awayMp": "2e389a44-0664-4214-85dc-e0c941b532af",
+   "awayScore": 34,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "nc26-x027",
+   "gameType": "non-conference",
+   "homeMp": "822c3c15-185c-4a77-be05-b9e0e12e6ee2",
+   "homeScore": 49,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "d97de54b-c60c-4aa6-a6cd-a6f1be12b0d4": {
    "awayMp": "de9248e8-754a-46cb-a833-ea994b43ce27",
