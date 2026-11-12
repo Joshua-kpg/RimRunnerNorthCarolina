@@ -260,6 +260,19 @@
    "state": "unlisted",
    "winner": "home"
   },
+  "17a6c027-48cf-477b-bf95-aa861dfee619": {
+   "awayMp": "ea74a5a5-95f6-456d-9e03-e439f5fb6545",
+   "awayScore": 67,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "nc26-0083",
+   "homeMp": "46d01a59-26c4-4105-9f93-524d66c898c9",
+   "homeScore": 41,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "18608afe-35a5-4a04-a7f8-a1d450770432": {
    "awayMp": "2c0afa3e-e1ff-4dbc-8e2c-6cc0a388e548",
    "awayScore": 40,
@@ -334,7 +347,7 @@
    "gameId": "nc26-x044",
    "gameType": "non-conference",
    "homeMp": "dfa8c779-3d94-48eb-ad8e-138f9a88b053",
-   "homeScore": 79,
+   "homeScore": 78,
    "neutral": false,
    "source": "scores-page",
    "state": "applied",
@@ -437,11 +450,11 @@
   },
   "2ed66213-e6ff-4ee1-8a5a-b2cc3df5db09": {
    "awayMp": "23bae8a4-95f3-4f43-99bb-9c0a28566b66",
-   "awayScore": 60,
+   "awayScore": 45,
    "date": "2026-11-11",
    "forfeit": false,
    "homeMp": "2960d4ec-68fd-4f80-b003-7d8034905b98",
-   "homeScore": 61,
+   "homeScore": 46,
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
@@ -1390,6 +1403,19 @@
    "state": "unlisted",
    "winner": "home"
   },
+  "83c5864d-6df9-4a55-981c-a124b4d42faa": {
+   "awayMp": "9618dcdc-48fb-425d-b4fa-371cec10a9bf",
+   "awayScore": 55,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "nc26-0138",
+   "homeMp": "83a9a187-ce2e-4a17-9877-dd3910ff9e6c",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "88301dec-9c6d-4b40-a918-58a8dc7fb7ba": {
    "awayMp": "8c031684-1051-4644-bc6a-26a6e7d88fe1",
    "awayScore": 54,
@@ -2287,6 +2313,21 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "home"
+  },
+  "d9e62bf1-6f6e-4733-8871-253ff66b1614": {
+   "awayMp": "822c3c15-185c-4a77-be05-b9e0e12e6ee2",
+   "awayScore": 57,
+   "date": "2026-11-11",
+   "forfeit": false,
+   "gameId": "nc26-x045",
+   "gameType": "non-conference",
+   "homeMp": "feda2659-2f54-46f3-ba59-db207d279c25",
+   "homeScore": 52,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
   },
   "dd3df682-445c-41fc-b6b9-0383bf48e316": {
    "awayMp": "8eee3d5d-23d2-40a5-a9fe-1772cf72cd3c",
