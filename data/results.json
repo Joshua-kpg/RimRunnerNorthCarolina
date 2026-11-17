@@ -573,7 +573,7 @@
    "forfeit": false,
    "gameId": "nc26-0319",
    "homeMp": "2a3901c0-b0dd-4782-b7c5-ccb3c368f3f1",
-   "homeScore": 55,
+   "homeScore": 57,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -742,12 +742,12 @@
   },
   "1c56117b-e813-4b8f-9ed1-cf63c8ec9691": {
    "awayMp": "2953a80e-0866-4c9a-9399-ae57a4886ea2",
-   "awayScore": 20,
+   "awayScore": 30,
    "date": "2026-11-16",
    "forfeit": false,
    "gameId": "nc26-0330",
    "homeMp": "e9d8265f-e5a5-4c82-a32e-897ecafd0081",
-   "homeScore": 55,
+   "homeScore": 65,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -1904,6 +1904,21 @@
    "state": "applied",
    "winner": "home"
   },
+  "55bd7ef4-1937-4df1-9905-867e87e721a1": {
+   "awayMp": "58723426-9f1b-4e04-b5a8-2f832a138fb7",
+   "awayScore": 52,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "nc26-x084",
+   "gameType": "non-conference",
+   "homeMp": "5f109932-4296-4e65-9a87-a667ff204a29",
+   "homeScore": 32,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "560de8c8-999d-4a62-a79e-a6ba5e7fbdb0": {
    "awayMp": "55e16b7a-806b-455b-bfe1-76ba58fbe8f0",
    "awayScore": 46,
@@ -2829,6 +2844,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "7bd54d9b-40e8-467e-ae10-d29e78f98b23": {
+   "awayMp": "12febe32-a230-4f1b-ad52-76f7c61a23f0",
+   "awayScore": 46,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "nc26-0335",
+   "homeMp": "90a23c97-92fc-45fb-8acc-030d169a3a9b",
+   "homeScore": 62,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "7c2b8028-12ef-4c5e-9623-26377766cd1f": {
    "awayMp": "c1f2d090-3bc4-49c7-b1d8-79d038efc13b",
    "awayScore": 66,
@@ -3447,6 +3475,21 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "away"
+  },
+  "994b12a5-ef8b-4ea6-8ac2-df3156a91fe1": {
+   "awayMp": "a5e9233f-9c9b-44c0-a2c9-68750e02e39a",
+   "awayScore": 35,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "nc26-x085",
+   "gameType": "non-conference",
+   "homeMp": "ecc5337b-e6b7-40a7-a268-0098beae23f2",
+   "homeScore": 61,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "9a4bcb7b-5f4e-4070-9b01-0bbb5b52bee0": {
    "awayMp": "55e16b7a-806b-455b-bfe1-76ba58fbe8f0",
@@ -4366,12 +4409,12 @@
   },
   "c29474f6-c508-4566-b7a4-436be4b6d608": {
    "awayMp": "0d1ae91d-bec5-4a22-a61c-88c4c44e8af0",
-   "awayScore": 189,
+   "awayScore": 52,
    "date": "2026-11-16",
    "forfeit": false,
    "gameId": "nc26-0135",
    "homeMp": "b4bb5c40-8c40-49f7-a4fb-3c1784ad7dd2",
-   "homeScore": 136,
+   "homeScore": 34,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -4429,6 +4472,18 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "c52617da-a9e0-4b7d-8949-a9aff26c07d0": {
+   "awayMp": "b9f45220-9d7a-49d7-be8a-938d5c605e0c",
+   "awayScore": 29,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "homeMp": "1c26ac4e-6c1c-4433-b3be-7e99af8acc8e",
+   "homeScore": 57,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
   },
   "c59b058e-0b17-4001-addb-12af89606af1": {
    "awayMp": "55e10fe0-8327-4cf5-876a-9641d6ef1dcc",
