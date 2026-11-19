@@ -489,6 +489,19 @@
    "state": "unlisted",
    "winner": "home"
   },
+  "0d751264-36c1-4821-bfd8-92ca7a64c59f": {
+   "awayMp": "e94881ea-b8d5-410c-bc06-5b44a1c9fe66",
+   "awayScore": 23,
+   "date": "2026-11-18",
+   "forfeit": false,
+   "gameId": "nc26-0482",
+   "homeMp": "9712c1eb-81ec-43bc-8689-90bcf878c2b4",
+   "homeScore": 60,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "0e310c17-2347-4689-bcbe-dae13dd17071": {
    "awayMp": "474f40b2-59d4-40ac-9f61-c38cde5a0fcd",
    "awayScore": 81,
@@ -760,6 +773,21 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "home"
+  },
+  "1518f76e-e404-4ded-818b-d7d589ebff5f": {
+   "awayMp": "d2d8f076-b5b0-403e-9545-e04e235e7aa2",
+   "awayScore": 93,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "nc26-x104",
+   "gameType": "non-conference",
+   "homeMp": "b8af36d0-9aa2-40e2-aa28-7a51a38c058a",
+   "homeScore": 81,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
   },
   "1558fc5d-89e7-41a3-876f-8185d955a3ba": {
    "awayMp": "f659f4d0-4d7d-4c22-9a00-2ff6b7a1ff5a",
@@ -1129,6 +1157,19 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "211695c3-8745-4b2f-90c9-eaf4e47f1e4f": {
+   "awayMp": "57816813-c083-4fea-8d0e-1c8bd42ce4b8",
+   "awayScore": 32,
+   "date": "2026-11-18",
+   "forfeit": false,
+   "gameId": "nc26-0488",
+   "homeMp": "3881b12d-5fb0-49a3-98c8-2ac45afdbfe5",
+   "homeScore": 47,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   },
   "21614841-479f-4314-9c95-612e591f992e": {
    "awayMp": "fee20b56-153c-4cba-8759-ab6e5fdf2eba",
@@ -4611,6 +4652,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "8edbf098-8033-4f6e-b4da-d1ee19b2c93b": {
+   "awayMp": "07cb15bd-d634-42e1-a34c-e1ecf908ba82",
+   "awayScore": 63,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "nc26-0434",
+   "homeMp": "1843ac9d-21ea-4682-9a07-83e508b52b20",
+   "homeScore": 71,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "8eec3ddb-3fd9-4197-9652-82b8fad549d1": {
    "awayMp": "ad62b8aa-6d4a-4fb3-81a7-e2da9622ff4f",
    "awayScore": 52,
@@ -4880,6 +4934,21 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "home"
+  },
+  "9741becb-9a82-46b6-8986-9a2a0fccd093": {
+   "awayMp": "27aee7ec-a527-48e1-a296-654c51ba4b91",
+   "awayScore": 56,
+   "date": "2026-11-18",
+   "forfeit": false,
+   "gameId": "nc26-x106",
+   "gameType": "non-conference",
+   "homeMp": "97d40b29-8d27-4631-b9bb-b24b37bfe1a0",
+   "homeScore": 51,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
   },
   "9756eb27-8402-4213-b504-ffdbcfb8d529": {
    "awayMp": "9f714b75-7881-4da6-b9ea-45033adea48f",
@@ -5190,6 +5259,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "away"
+  },
+  "a0c850e3-a37e-44ab-8e9d-2e6bd65fcd76": {
+   "awayMp": "1696a85d-b6a5-4027-8b8d-b9f9ed31ddb8",
+   "awayScore": 81,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "nc26-x105",
+   "gameType": "non-conference",
+   "homeMp": "8155b85d-7092-4c6c-9296-fee306b5e1db",
+   "homeScore": 41,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "away"
   },
   "a118566e-eac0-41d0-bd40-6cfc6b31c416": {
@@ -5629,6 +5713,18 @@
    "state": "applied",
    "verified": true,
    "winner": "home"
+  },
+  "ae0ee560-5071-43e3-a463-7ba664357e9c": {
+   "awayMp": "915bd16f-af85-454f-bffa-d90e5ad0d6f7",
+   "awayScore": 82,
+   "date": "2026-11-18",
+   "forfeit": false,
+   "homeMp": "e54ee519-5dd5-478b-ad11-681f7d798ca3",
+   "homeScore": 68,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
   },
   "af4a9111-d6e8-4cc6-bc96-e0c820d0415d": {
    "awayMp": "1c26ac4e-6c1c-4433-b3be-7e99af8acc8e",
