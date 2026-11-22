@@ -981,7 +981,7 @@
   },
   "122f5ab2-44ab-4807-9cfe-edc4178a729f": {
    "awayMp": "f89f8688-0fd5-42e7-ab82-ac610a72d8d2",
-   "awayScore": 76,
+   "awayScore": 78,
    "date": "2026-11-21",
    "forfeit": false,
    "homeMp": "b16b592d-1dc3-4bf7-b8df-1806cc40fbe5",
@@ -3318,6 +3318,18 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "home"
+  },
+  "47e4b708-9093-4de1-8de0-e6f5a939230d": {
+   "awayMp": "4fc9dcd1-3d2c-4d0a-998e-4340bac0ac02",
+   "awayScore": 76,
+   "date": "2026-11-20",
+   "forfeit": false,
+   "homeMp": "aa8ee037-4a3d-4b4d-bb4e-3f0607dbf4b7",
+   "homeScore": 67,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
   },
   "48039420-d4db-4368-93fd-a675215854b0": {
    "awayMp": "6686f743-8354-4edb-8785-34c17b87d1ce",
@@ -9447,16 +9459,16 @@
    "winner": "home"
   },
   "ca911883-dec5-478d-ae60-557e3936a5fc": {
-   "awayMp": "5beee603-280d-457c-9a44-170dd5f903da",
-   "awayScore": 75,
+   "awayMp": "9a4b4269-4192-427d-8ec3-fc1759871d3c",
+   "awayScore": 56,
    "date": "2026-11-21",
    "forfeit": false,
-   "homeMp": "9a4b4269-4192-427d-8ec3-fc1759871d3c",
-   "homeScore": 56,
+   "homeMp": "5beee603-280d-457c-9a44-170dd5f903da",
+   "homeScore": 75,
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
-   "winner": "away"
+   "winner": "home"
   },
   "cc24aa1a-2aa1-4538-8bca-59b5d84589dd": {
    "awayMp": "442300ee-6a7b-4835-86c3-8f7043d1dc70",
@@ -9609,6 +9621,19 @@
    "forfeit": false,
    "gameId": "nc26-0477",
    "homeMp": "0ff09972-0419-4362-87d9-51e344a37de6",
+   "homeScore": 63,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "ce50fc10-fdfe-4680-94fb-a71f4805535d": {
+   "awayMp": "e71bfa67-d955-4973-8dd5-a3199fe9f292",
+   "awayScore": 54,
+   "date": "2026-11-21",
+   "forfeit": false,
+   "gameId": "nc26-0744",
+   "homeMp": "270894f3-efdd-4ab8-adcc-207a1faa6290",
    "homeScore": 63,
    "neutral": null,
    "source": "scores-page",
